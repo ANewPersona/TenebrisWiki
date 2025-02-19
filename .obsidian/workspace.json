@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "64d2cbc853291b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "d69dfee2ccdef99f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94cfb53a27359571",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Development/Untitled.canvas",
+                "viewState": {
+                  "x": -6656.745072190439,
+                  "y": -7436.365772144923,
+                  "zoom": 3.3306690738754696e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "07f839d63a607787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Dieties/Warden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warden"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52785b2e525c1466",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1cc6ebf8aac5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b169712c04d7a3a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ff62b86230b2055",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Category🔰/Special🌟/Entity⭕👹",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "014402cd825473fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0d648dc71c458cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a8205afdfc1231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ab0b2034b06b41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main/Items/Iron Ingot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Iron Ingot"
+            }
+          },
+          {
+            "id": "ece1cb671780cc9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main/Items/Iron Ingot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Iron Ingot"
+            }
+          },
+          {
+            "id": "952c49875d80fdc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02b6bada5c04caed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Development/PseudoCodes/CombatModule/Player-Tool-Server.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Player-Tool-Server"
+            }
+          },
+          {
+            "id": "8d07bf17763315cc",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "77dbf32d9f94915d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "07f839d63a607787",
+  "lastOpenFiles": [
+    "Development/Nodes/Stats.md",
+    "Development/Untitled.canvas",
+    "Development/Nodes",
+    "Tags/Tags.md",
+    "Main/Dieties/Warden.md",
+    "Main/Species/Plints.md",
+    "Main/Dieties",
+    "Untitled.canvas",
+    "Main/Species",
+    "Tags/Melee Weapon.md",
+    "Tags/Common⚪.md",
+    "Main/Entities/Plints.md",
+    "Main/Entities",
+    "Development/PseudoCodes/CombatModule/Game-Server.md",
+    "Development/PseudoCodes/CombatModule/Player-Tool-Server.md",
+    "Development/PseudoCodes/CombatModule/Player-Tool-Client.md",
+    "Main/Items/Simple Cloak.md",
+    "Development/PseudoCodes/CombatModule",
+    "Development/PseudoCodes",
+    "Development",
+    "Unarmored enemies.md",
+    "Assets/1ce46aa2d0d54ff9b917c242b74659ba.jpg",
+    "Assets/18054baa7caeece0461979ae99cb08d8 1.jpg",
+    "Main/Items/Iron Sword.md",
+    "Assets",
+    "Main/Items/Iron Ingot.md",
+    "Tags",
+    "Main/Items/Wooden Handle.md",
+    "Assets/18054baa7caeece0461979ae99cb08d8.jpg",
+    "Type",
+    "2025-02-16.md",
+    "Main/Home.md.md",
+    "Main/World/Map.md",
+    "Untitled 1.canvas",
+    "Main/Untitled.canvas"
+  ]
+}
