@@ -28,14 +28,17 @@
             "id": "07f839d63a607787",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Development/PseudoCodes/CombatModule/Specs.md",
-                "mode": "source",
-                "source": false
+                "file": "Ideas.canvas",
+                "viewState": {
+                  "x": 221.8172820535196,
+                  "y": 161.23779684409536,
+                  "zoom": -0.6666666666666666
+                }
               },
-              "icon": "lucide-file",
-              "title": "Specs"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ideas"
             }
           }
         ],
@@ -213,17 +216,17 @@
   },
   "active": "07f839d63a607787",
   "lastOpenFiles": [
-    "Development/PseudoCodes/CombatModule/Player-Tool-Client.md",
-    "Development/PseudoCodes/CombatModule/Specs.md",
-    "Development/PseudoCodes/CombatModule/Game-Server.md",
     "Main/Dieties/Warden.md",
+    "Ideas.canvas",
+    "Development/PseudoCodes/CombatModule/Specs.md",
+    "Development/PseudoCodes/CombatModule/Player-Tool-Client.md",
+    "Development/PseudoCodes/CombatModule/Game-Server.md",
     "Development/Nodes/Stats.md",
     "Development/Untitled.canvas",
     "Development/Nodes",
     "Tags/Tags.md",
     "Main/Species/Plints.md",
     "Main/Dieties",
-    "Untitled.canvas",
     "Main/Species",
     "Tags/Melee Weapon.md",
     "Tags/Common⚪.md",
