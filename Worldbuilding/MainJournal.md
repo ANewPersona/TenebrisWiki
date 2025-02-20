@@ -8,6 +8,7 @@
 	- HomeWorld
 		- [[Tenebris]]
 - Are there major bodies of water (oceans, seas, lakes, rivers)?
+	- 
 - What are the dominant landforms (mountains, forests, deserts, swamps)?
 - What common plant life exists?
 - Are there rare, magical, or special plants?
@@ -20,6 +21,19 @@
 - What natural formations serve as landmarks (volcanoes, caves, waterfalls)?
 - Are there ancient ruins, monuments, or religious sites?
 - What major cities, towns, or settlements exist?
+- 10 kingdoms
+	1. [[Eldoria]] – The First Kingdom (Balanced & Civilized)
+	2. [[Sableh]] – The Desert Kingdom
+	3. [[Mistmere]] – The Kingdom of Eternal Mist
+	4. [[Riftmoor]] – The Kingdom That Came Out of Nowhere
+	5. [[Umbros]] – The Kingdom of Forbidden Magic
+	6. [[Dravell]] – The Warborn Kingdom
+	7. [[Hollowgrave]] – The Cursed Kingdom
+	8. [[Gildmere]] – The Gilded Kingdom of False Peace
+	9. [[Skyreach]] – The Floating Kingdom
+	10. [[Duskvale]] – The Hollow Kingdom
+
+A vast, empty land with cities untouched by time. No one knows who lived here before… or where they went.
 - What key buildings exist (castles, temples, government buildings)?
 - Are there travel hubs (train stations, ports, airships, spaceports)?
 - What shops, markets, and vendors are common?
