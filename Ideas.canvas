@@ -1,9 +1,10 @@
 {
 	"nodes":[
+		{"id":"469dd3eb0c4287ca","x":388,"y":-364,"width":250,"height":60,"type":"text","text":""},
 		{"id":"12def1158127d9b1","type":"text","text":"the vague [[warden]]","x":-274,"y":-194,"width":250,"height":54},
-		{"id":"31683aa9f1f5081f","x":-460,"y":-80,"width":250,"height":273,"type":"text","text":"warden as we know it is unlike other deities, granting us power without any mission or task given beforehand, but he asks for a favor after he gives us the power, the favor will be revealed pre-end game.\nand that will alter the lore."},
-		{"id":"53d49ae152129eb8","x":-180,"y":-80,"width":250,"height":237,"type":"text","text":"tenebris, in reality is the name of a deity, the scraps of lore and clues hint toward tenebris, they are vague but reference tenebris as something superior and his ulterior motives,\n"},
-		{"id":"46beb5bb4c580ac6","x":-274,"y":240,"width":250,"height":196,"type":"text","text":"the player is supposed to think that tenebris is the worlds name, but in reality at the pre-end game, it will be revealed that warden is tenebris\n"}
+		{"id":"31683aa9f1f5081f","type":"text","text":"warden as we know it is unlike other deities, granting us power without any mission or task given beforehand, but he asks for a favor after he gives us the power, the favor will be revealed pre-end game.\nand that will alter the lore.","x":-460,"y":-80,"width":250,"height":273},
+		{"id":"53d49ae152129eb8","type":"text","text":"tenebris, in reality is the name of a deity, the scraps of lore and clues hint toward tenebris, they are vague but reference tenebris as something superior and his ulterior motives,\n","x":-180,"y":-80,"width":250,"height":237},
+		{"id":"46beb5bb4c580ac6","type":"text","text":"the player is supposed to think that tenebris is the worlds name, but in reality at the pre-end game, it will be revealed that warden is tenebris\n","x":-274,"y":240,"width":250,"height":196}
 	],
 	"edges":[
 		{"id":"3870d8e0b827a3f8","fromNode":"12def1158127d9b1","fromSide":"bottom","toNode":"31683aa9f1f5081f","toSide":"top"},

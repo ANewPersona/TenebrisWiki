@@ -6,4 +6,4 @@ The warden is an enigmatic deity who seems to know what this world and universe 
 
 Blessings:
 	Warden's disciple.(gives the player ability to respawn) ,this is a mandetory blessing
-
+	

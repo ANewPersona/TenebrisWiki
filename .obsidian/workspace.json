@@ -28,17 +28,14 @@
             "id": "07f839d63a607787",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ideas.canvas",
-                "viewState": {
-                  "x": 221.8172820535196,
-                  "y": 161.23779684409536,
-                  "zoom": -0.6666666666666666
-                }
+                "file": "Worldbuilding/CelestialBodies/Moons/Azura.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ideas"
+              "icon": "lucide-file",
+              "title": "Azura"
             }
           }
         ],
@@ -163,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/PseudoCodes/CombatModule/Player-Tool-Server.md",
+                "file": "Worldbuilding/CelestialBodies/Moons/Azura.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Player-Tool-Server"
+              "title": "Outline of Azura"
             }
           },
           {
@@ -193,11 +190,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +214,15 @@
   },
   "active": "07f839d63a607787",
   "lastOpenFiles": [
-    "Main/Dieties/Warden.md",
+    "Worldbuilding/CelestialBodies/Moons/Roja.md",
+    "Worldbuilding/CelestialBodies/Moons/Azura.md",
+    "Worldbuilding/CelestialBodies/Moons/Plata.md",
+    "Worldbuilding/MainJournal.md",
+    "Worldbuilding/CelestialBodies/Moons",
+    "Worldbuilding/CelestialBodies",
     "Ideas.canvas",
+    "Main/Dieties/Warden.md",
+    "Main/Items/Iron Sword.md",
     "Development/PseudoCodes/CombatModule/Specs.md",
     "Development/PseudoCodes/CombatModule/Player-Tool-Client.md",
     "Development/PseudoCodes/CombatModule/Game-Server.md",
@@ -240,13 +245,10 @@
     "Unarmored enemies.md",
     "Assets/1ce46aa2d0d54ff9b917c242b74659ba.jpg",
     "Assets/18054baa7caeece0461979ae99cb08d8 1.jpg",
-    "Main/Items/Iron Sword.md",
     "Assets",
     "Main/Items/Iron Ingot.md",
-    "Tags",
     "Main/Items/Wooden Handle.md",
     "Assets/18054baa7caeece0461979ae99cb08d8.jpg",
-    "Type",
     "2025-02-16.md",
     "Main/Home.md.md",
     "Main/World/Map.md",
