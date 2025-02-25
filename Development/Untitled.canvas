@@ -15,11 +15,12 @@
 		{"id":"988abdeb99d8bf30","type":"text","text":"Health\n\t","x":-6660,"y":-7687,"width":250,"height":60},
 		{"id":"a26e3677393ab923","type":"text","text":"Mana\n","x":-6920,"y":-7687,"width":250,"height":60},
 		{"id":"bd11bf333a33a6e8","type":"text","text":"STR - attack power and base damage\n","x":-6920,"y":-7600,"width":250,"height":60},
-		{"id":"1d2350aa64767c7d","x":-6660,"y":-7600,"width":250,"height":60,"type":"text","text":"DEX - attack speed and walk speed\n"},
-		{"id":"b49d49b071cdace9","x":-6660,"y":-7529,"width":250,"height":60,"type":"text","text":"INT - magic damage and mana regeneration\n"},
-		{"id":"d3154b47d320e9c7","x":-6920,"y":-7529,"width":250,"height":60,"type":"text","text":"END - defense ad magic resistance\n"},
-		{"id":"97a390c3daa6c87a","x":-6920,"y":-7460,"width":250,"height":60,"type":"text","text":"VIT - max health and max stamina\n"},
-		{"id":"2ecc519a8294d5e6","x":-6660,"y":-7460,"width":250,"height":60,"type":"text","text":"SPI - mana capacity and Luck"}
+		{"id":"1d2350aa64767c7d","type":"text","text":"DEX - attack speed and walk speed\n","x":-6660,"y":-7600,"width":250,"height":60},
+		{"id":"b49d49b071cdace9","type":"text","text":"INT - magic damage and mana regeneration\n","x":-6660,"y":-7529,"width":250,"height":60},
+		{"id":"d3154b47d320e9c7","type":"text","text":"END - defense ad magic resistance\n","x":-6920,"y":-7529,"width":250,"height":60},
+		{"id":"97a390c3daa6c87a","type":"text","text":"VIT - max health and max stamina\n","x":-6920,"y":-7460,"width":250,"height":60},
+		{"id":"2ecc519a8294d5e6","type":"text","text":"SPI - mana capacity and Luck","x":-6660,"y":-7460,"width":250,"height":60},
+		{"id":"9a052fd7580f1b0a","type":"file","file":"Assets/Pasted image 20250221155939.png","x":-7760,"y":-7280,"width":3235,"height":211}
 	],
 	"edges":[
 		{"id":"1bd35b6cbd43ac7c","fromNode":"ad43de5c189dca70","fromSide":"bottom","toNode":"7ed20aa605617ee4","toSide":"top"},

@@ -5,6 +5,7 @@
 
 - Rifts (Portals)
 	- rifts or portals will be a gateway to different world, they in reality will be DUNGEONS that are randomly generated with a seed and same seed gives same dungeons, these dungeons will mostly be jsut a looting and raiding system, but occasionally some rifts will have lore about the world inside. the more secret quests the player does, the more lore uncovers and more rifts appear.
+
 - SoulBound
 	- soulbound items will be items that are non tradeable, they are essentially bound to one's self.
 
