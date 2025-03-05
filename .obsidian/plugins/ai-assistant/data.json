@@ -1,0 +1,11 @@
+{
+  "mySetting": "default",
+  "openAIapiKey": "",
+  "anthropicApiKey": "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",
+  "modelName": "gpt-4o-mini",
+  "imageModelName": "dall-e-3",
+  "maxTokens": 500,
+  "replaceSelection": true,
+  "imgFolder": "AiAssistant/Assets",
+  "language": ""
+}

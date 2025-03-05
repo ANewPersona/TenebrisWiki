@@ -1,0 +1,16 @@
+{
+  "resultsCount": 6,
+  "khojUrl": "https://app.khoj.dev",
+  "khojApiKey": "",
+  "connectedToBackend": false,
+  "autoConfigure": true,
+  "lastSync": {},
+  "syncFileType": {
+    "markdown": true,
+    "images": true,
+    "pdf": true
+  },
+  "userInfo": null,
+  "syncFolders": [],
+  "syncInterval": 60
+}

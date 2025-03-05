@@ -8,31 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07f839d63a607787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/Tags.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "94cfb53a27359571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Worldbuilding/MainJournal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "MainJournal"
+            }
+          },
+          {
+            "id": "07f839d63a607787",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "16d40ef0954430bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/Melee Weapon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Melee Weapon"
+            }
+          },
+          {
+            "id": "9c51523db093e2d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Items/Iron Sword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iron Sword"
             }
           }
         ],
@@ -109,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/Items/Iron Ingot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Iron Ingot"
+              "title": "Backlinks"
             }
           },
           {
@@ -157,23 +182,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/Tags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tags"
+              "title": "Outline"
             }
           },
           {
             "id": "8d07bf17763315cc",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "New tab"
             }
           },
           {
@@ -182,12 +206,42 @@
             "state": {
               "type": "BC-tree",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
+          },
+          {
+            "id": "9e9b1b3162cd37b1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "c60e2d72ed6821e3",
+            "type": "leaf",
+            "state": {
+              "type": "setup-view",
+              "state": {},
+              "icon": "cog",
+              "title": "Setup"
+            }
+          },
+          {
+            "id": "7ef52b09a63a8a98",
+            "type": "leaf",
+            "state": {
+              "type": "khoj-chat-view",
+              "state": {},
+              "icon": "message-circle",
+              "title": "Khoj Chat"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -201,53 +255,60 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "khoj:Khoj": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "94cfb53a27359571",
+  "active": "07f839d63a607787",
   "lastOpenFiles": [
+    "Tags/Melee Weapon.md",
+    "Main/Items/Iron Sword.md",
+    "Worldbuilding/CelestialBodies/Homeworld/Tenebris.md",
+    "Worldbuilding/MainJournal.md",
+    "Worldbuilding/CelestialBodies/Moons/Plata.md",
+    "Worldbuilding/CelestialBodies/Moons/Roja.md",
+    "Worldbuilding/CelestialBodies/Moons/Azura.md",
+    "Ideas.canvas",
+    "Main/Items/Iron Helmet.md",
+    "Untitled.canvas",
+    "Tags/Tags.md",
+    "Excalidraw/Drawing 2025-03-05 21.32.50.excalidraw.md",
+    "Excalidraw",
+    "Worldbuilding/Kingdoms/Dravell.md",
+    "Mechanics.md",
     "Development/Untitled.canvas",
     "Assets/Pasted image 20250221155939.png",
-    "Mechanics.md",
-    "Worldbuilding/MainJournal.md",
-    "Tags/Tags.md",
-    "Worldbuilding/CelestialBodies/Homeworld/Tenebris.md",
     "Worldbuilding/CelestialBodies/Homeworld",
     "Worldbuilding/Kingdoms/Duskvale.md",
     "Worldbuilding/Kingdoms/Skyreach.md",
     "Worldbuilding/Kingdoms/Gildmere.md",
     "Worldbuilding/Kingdoms/Hollowgrave.md",
-    "Worldbuilding/Kingdoms/Dravell.md",
     "Worldbuilding/Kingdoms/Umbros.md",
     "Worldbuilding/Kingdoms/Riftmoor.md",
     "Worldbuilding/Kingdoms/Mistmere.md",
     "Worldbuilding/Kingdoms/Sableh.md",
-    "Ideas.canvas",
     "Worldbuilding/Kingdoms/Eldoria.md",
     "Worldbuilding/Kingdoms",
-    "Worldbuilding/CelestialBodies/Moons/Roja.md",
-    "Worldbuilding/CelestialBodies/Moons/Plata.md",
-    "Worldbuilding/CelestialBodies/Moons/Azura.md",
     "Worldbuilding/CelestialBodies/Moons",
     "Worldbuilding/CelestialBodies",
     "Main/Dieties/Warden.md",
-    "Main/Items/Iron Sword.md",
     "Development/PseudoCodes/CombatModule/Specs.md",
     "Development/PseudoCodes/CombatModule/Player-Tool-Client.md",
     "Development/PseudoCodes/CombatModule/Game-Server.md",
     "Development/Nodes/Stats.md",
     "Development/Nodes",
-    "Main/Species/Plints.md",
     "Main/Dieties",
     "Main/Species",
-    "Tags/Melee Weapon.md",
     "Main/Entities",
     "Development/PseudoCodes/CombatModule",
-    "Development/PseudoCodes",
     "Assets/1ce46aa2d0d54ff9b917c242b74659ba.jpg",
     "Assets/18054baa7caeece0461979ae99cb08d8 1.jpg",
     "Assets/18054baa7caeece0461979ae99cb08d8.jpg",
