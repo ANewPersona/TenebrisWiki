@@ -21,4 +21,3 @@
 		- Repeatedly paying respect
 		- doing their tasks (daily or weekly)
 		- offering them their favourite items
-

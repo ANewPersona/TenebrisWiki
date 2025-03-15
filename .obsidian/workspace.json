@@ -1,82 +1,41 @@
 {
   "main": {
-    "id": "64d2cbc853291b31",
+    "id": "1d0c0654e90f6834",
     "type": "split",
     "children": [
       {
-        "id": "c778e70b01b54b97",
+        "id": "c4b401ce8980966c",
         "type": "tabs",
         "children": [
           {
-            "id": "94cfb53a27359571",
+            "id": "b151deafae86d4a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/MainJournal.md",
+                "file": "Templates/Entity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MainJournal"
-            }
-          },
-          {
-            "id": "07f839d63a607787",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "16d40ef0954430bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/Melee Weapon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Melee Weapon"
-            }
-          },
-          {
-            "id": "9c51523db093e2d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Items/Iron Sword.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iron Sword"
+              "title": "Entity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "52785b2e525c1466",
+    "id": "da8a60eeea30ddbd",
     "type": "split",
     "children": [
       {
-        "id": "ce1cc6ebf8aac5a0",
+        "id": "e8bca6d2533ffa1d",
         "type": "tabs",
         "children": [
           {
-            "id": "b169712c04d7a3a3",
+            "id": "4cddff50b95ed7c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,12 +48,12 @@
             }
           },
           {
-            "id": "0ff62b86230b2055",
+            "id": "f0ef61e199faf32d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Category🔰/Species🔘/Plints",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +65,7 @@
             }
           },
           {
-            "id": "014402cd825473fb",
+            "id": "30d5783963421845",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,15 +81,16 @@
     "width": 300
   },
   "right": {
-    "id": "a0d648dc71c458cd",
+    "id": "4e68366d32be4535",
     "type": "split",
     "children": [
       {
-        "id": "00a8205afdfc1231",
+        "id": "02dc2267a5277303",
         "type": "tabs",
+        "dimension": 37.47126436781609,
         "children": [
           {
-            "id": "04ab0b2034b06b41",
+            "id": "d0a33a0a2d8d0a4e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -148,28 +108,27 @@
             }
           },
           {
-            "id": "ece1cb671780cc9e",
+            "id": "cea8b8f19f87a088",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Items/Iron Ingot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Iron Ingot"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "952c49875d80fdc9",
+            "id": "f6ce1d22d4182737",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -177,142 +136,93 @@
             }
           },
           {
-            "id": "02b6bada5c04caed",
+            "id": "7ac06f7f3ab2774f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Entity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Entity"
             }
           },
           {
-            "id": "8d07bf17763315cc",
+            "id": "a29703c5958362ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "77dbf32d9f94915d",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
-            }
-          },
-          {
-            "id": "9e9b1b3162cd37b1",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
-            }
-          },
-          {
-            "id": "c60e2d72ed6821e3",
-            "type": "leaf",
-            "state": {
-              "type": "setup-view",
-              "state": {},
-              "icon": "cog",
-              "title": "Setup"
-            }
-          },
-          {
-            "id": "7ef52b09a63a8a98",
-            "type": "leaf",
-            "state": {
-              "type": "khoj-chat-view",
-              "state": {},
-              "icon": "message-circle",
-              "title": "Khoj Chat"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
+      },
+      {
+        "id": "3582ec455ff450b5",
+        "type": "tabs",
+        "dimension": 62.52873563218391,
+        "children": [
+          {
+            "id": "2494a2d599120917",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "khoj:Khoj": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-second-brain:Open S2B Chat": false
+      "smart-second-brain:Open S2B Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "07f839d63a607787",
+  "active": "b151deafae86d4a0",
   "lastOpenFiles": [
-    "Tags/Melee Weapon.md",
-    "Main/Items/Iron Sword.md",
-    "Worldbuilding/CelestialBodies/Homeworld/Tenebris.md",
-    "Worldbuilding/MainJournal.md",
-    "Worldbuilding/CelestialBodies/Moons/Plata.md",
-    "Worldbuilding/CelestialBodies/Moons/Roja.md",
-    "Worldbuilding/CelestialBodies/Moons/Azura.md",
-    "Ideas.canvas",
-    "Main/Items/Iron Helmet.md",
-    "Untitled.canvas",
-    "Tags/Tags.md",
-    "Excalidraw/Drawing 2025-03-05 21.32.50.excalidraw.md",
-    "Excalidraw",
-    "Worldbuilding/Kingdoms/Dravell.md",
+    "Templates/Tag.md",
+    "Templates/Entity.md",
     "Mechanics.md",
     "Development/Untitled.canvas",
-    "Assets/Pasted image 20250221155939.png",
-    "Worldbuilding/CelestialBodies/Homeworld",
-    "Worldbuilding/Kingdoms/Duskvale.md",
-    "Worldbuilding/Kingdoms/Skyreach.md",
-    "Worldbuilding/Kingdoms/Gildmere.md",
-    "Worldbuilding/Kingdoms/Hollowgrave.md",
-    "Worldbuilding/Kingdoms/Umbros.md",
-    "Worldbuilding/Kingdoms/Riftmoor.md",
-    "Worldbuilding/Kingdoms/Mistmere.md",
-    "Worldbuilding/Kingdoms/Sableh.md",
-    "Worldbuilding/Kingdoms/Eldoria.md",
-    "Worldbuilding/Kingdoms",
-    "Worldbuilding/CelestialBodies/Moons",
-    "Worldbuilding/CelestialBodies",
-    "Main/Dieties/Warden.md",
-    "Development/PseudoCodes/CombatModule/Specs.md",
-    "Development/PseudoCodes/CombatModule/Player-Tool-Client.md",
-    "Development/PseudoCodes/CombatModule/Game-Server.md",
-    "Development/Nodes/Stats.md",
-    "Development/Nodes",
-    "Main/Dieties",
-    "Main/Species",
-    "Main/Entities",
-    "Development/PseudoCodes/CombatModule",
-    "Assets/1ce46aa2d0d54ff9b917c242b74659ba.jpg",
-    "Assets/18054baa7caeece0461979ae99cb08d8 1.jpg",
-    "Assets/18054baa7caeece0461979ae99cb08d8.jpg",
-    "Untitled 1.canvas",
-    "Main/Untitled.canvas"
+    "Tags/Tags.md",
+    "Elf.md",
+    "Untitled Kanban.md",
+    "Ideas.canvas",
+    "Worldbuilding/MainJournal.md",
+    "Untitled",
+    "Worldbuilding/CelestialBodies/Homeworld/Tenebris.md",
+    "Untitled/Untitled.canvas",
+    "Worldbuilding/CelestialBodies/Moons/Azura.md",
+    "Worldbuilding/CelestialBodies/Moons/Plata.md",
+    "Worldbuilding/CelestialBodies/Moons/Roja.md"
   ]
 }
