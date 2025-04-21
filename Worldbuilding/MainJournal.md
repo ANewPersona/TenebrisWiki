@@ -21,6 +21,8 @@
 - What natural formations serve as landmarks (volcanoes, caves, waterfalls)?
 - Are there ancient ruins, monuments, or religious sites?
 - What major cities, towns, or settlements exist?
+	- [[Eldoria]]
+		- 
 - 10 kingdoms
 	1. [[Eldoria]] – The First Kingdom (Balanced & Civilized)
 	2. [[Sableh]] – The Desert Kingdom
@@ -32,8 +34,6 @@
 	8. [[Gildmere]] – The Gilded Kingdom of False Peace
 	9. [[Skyreach]] – The Floating Kingdom
 	10. [[Duskvale]] – The Hollow Kingdom
-
-A vast, empty land with cities untouched by time. No one knows who lived here before… or where they went.
 - What key buildings exist (castles, temples, government buildings)?
 - Are there travel hubs (train stations, ports, airships, spaceports)?
 - What shops, markets, and vendors are common?

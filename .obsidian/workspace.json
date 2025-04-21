@@ -11,14 +11,17 @@
             "id": "b151deafae86d4a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Templates/Entity.md",
-                "mode": "source",
-                "source": false
+                "file": "Worldbuilding/Story.canvas",
+                "viewState": {
+                  "x": 71,
+                  "y": 156.6166666666667,
+                  "zoom": -0.027783156513538146
+                }
               },
-              "icon": "lucide-file",
-              "title": "Entity"
+              "icon": "lucide-layout-dashboard",
+              "title": "Story"
             }
           }
         ]
@@ -198,31 +201,37 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "khoj:Khoj": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "smart-second-brain:Open S2B Chat": false,
       "obsidian-kanban:Create new board": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "b151deafae86d4a0",
   "lastOpenFiles": [
-    "Templates/Tag.md",
+    "Worldbuilding/Story.canvas",
+    "Ideas.canvas",
+    "Worldbuilding/The Calendar of the Three Moons.md",
+    "Blessings/warden's Apostle.md",
+    "Blessings",
+    "Worldbuilding/MainJournal.md",
+    "Worldbuilding/Months/Rojawake.md",
+    "Worldbuilding/Months/Azurenew.md",
+    "Worldbuilding/Months/Threeshade.md",
+    "Worldbuilding/Months",
+    "Worldbuilding/Kingdoms/Eldoria.md",
+    "Worldbuilding/CelestialBodies/Moons/Plata.md",
     "Templates/Entity.md",
+    "Templates/Tag.md",
     "Mechanics.md",
     "Development/Untitled.canvas",
     "Tags/Tags.md",
     "Elf.md",
     "Untitled Kanban.md",
-    "Ideas.canvas",
-    "Worldbuilding/MainJournal.md",
-    "Untitled",
     "Worldbuilding/CelestialBodies/Homeworld/Tenebris.md",
     "Untitled/Untitled.canvas",
     "Worldbuilding/CelestialBodies/Moons/Azura.md",
-    "Worldbuilding/CelestialBodies/Moons/Plata.md",
     "Worldbuilding/CelestialBodies/Moons/Roja.md"
   ]
 }

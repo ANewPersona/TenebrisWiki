@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookTabs",
       "LiStars",
       "LiTag",
       "LiContainer",
-      "LiTrafficCone",
-      "LiGem"
+      "LiTrafficCone"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Tags/Melee Weapon.md": "LiTrafficCone",
   "Tags/Common⚪.md": "LiTag",
   "Main/Items/Simple Cloak.md": "LiContainer",
-  "Main/Dieties/Warden.md": "LiStars"
+  "Main/Dieties/Warden.md": "LiStars",
+  "Worldbuilding/MainJournal.md": "LiNotebookTabs"
 }

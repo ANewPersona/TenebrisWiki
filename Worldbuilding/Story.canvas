@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"486ac67aadea98e2","type":"text","text":"Beginning player wakes up in a dream like sequence\n","x":-200,"y":-400,"width":242,"height":100},
+		{"id":"45cf25b597d4dfdd","type":"text","text":"Player is introuduced t the [[Warden]]","x":-200,"y":-240,"width":242,"height":60},
+		{"id":"cf58c158699b7981","type":"text","text":"[[Warden]]  introduces the player to mechanics and some tutorials","x":-200,"y":-140,"width":242,"height":60},
+		{"id":"6cb03bc713908434","type":"text","text":"player then has character customizationm and name","x":-204,"y":0,"width":250,"height":100},
+		{"id":"fec342e928810360","type":"text","text":"Player is dropped to the ruin, the ruin is surrounded by purple alien type capsule, one is opened behind the player, implying player came from them","x":-208,"y":160,"width":258,"height":174},
+		{"id":"2ce6ac3df0913ec3","type":"text","text":"[[Warden]] gives player [[warden's Apostle]]","x":100,"y":-140,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"d0b0b395eabc9452","fromNode":"486ac67aadea98e2","fromSide":"bottom","toNode":"45cf25b597d4dfdd","toSide":"top"},
+		{"id":"2dec7cc9be1dc00a","fromNode":"45cf25b597d4dfdd","fromSide":"bottom","toNode":"cf58c158699b7981","toSide":"top"},
+		{"id":"bb26e7e4e64b5583","fromNode":"cf58c158699b7981","fromSide":"bottom","toNode":"6cb03bc713908434","toSide":"top"},
+		{"id":"fb0ee2701cd2af53","fromNode":"6cb03bc713908434","fromSide":"bottom","toNode":"fec342e928810360","toSide":"top"},
+		{"id":"ac0cf53c58b2e403","fromNode":"cf58c158699b7981","fromSide":"right","toNode":"2ce6ac3df0913ec3","toSide":"left","toEnd":"none"}
+	]
+}
