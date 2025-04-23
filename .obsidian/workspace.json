@@ -11,20 +11,42 @@
             "id": "b151deafae86d4a0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Story.canvas",
-                "viewState": {
-                  "x": 71,
-                  "y": 156.6166666666667,
-                  "zoom": -0.027783156513538146
-                }
+                "file": "Tags/Rare🔵.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Story"
+              "icon": "lucide-file",
+              "title": "Rare🔵"
+            }
+          },
+          {
+            "id": "a29703c5958362ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-05 21.32.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-05 21.32.50.excalidraw"
+            }
+          },
+          {
+            "id": "2813d11fc3ccf252",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -43,7 +65,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -56,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,27 +167,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Entity.md",
+                "file": "Excalidraw/Drawing 2025-03-05 21.32.50.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entity"
-            }
-          },
-          {
-            "id": "a29703c5958362ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Outline of Drawing 2025-03-05 21.32.50.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "3582ec455ff450b5",
@@ -185,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +221,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b151deafae86d4a0",
+  "active": "93f07ae905a5c9f9",
   "lastOpenFiles": [
+    "Tags/Tags.md",
+    "Rarity Mythic🌈.md",
+    "Rarity Legendary🟠.md",
+    "Rarity Epic🟣.md",
+    "Rarity Uncommon🟢.md",
+    "Tags/Rare🔵.md",
+    "Tags/Common⚪.md",
     "Worldbuilding/Story.canvas",
     "Ideas.canvas",
     "Worldbuilding/The Calendar of the Three Moons.md",
@@ -226,7 +246,6 @@
     "Templates/Tag.md",
     "Mechanics.md",
     "Development/Untitled.canvas",
-    "Tags/Tags.md",
     "Elf.md",
     "Untitled Kanban.md",
     "Worldbuilding/CelestialBodies/Homeworld/Tenebris.md",

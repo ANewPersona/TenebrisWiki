@@ -16,7 +16,7 @@
 
 ### **🐉 Extra Entity⭕ Attributes**
 
-- #Tameable🐴 → **Creatures that can be tamed or mounted**
+- #Category🔰/Special🌟/Entity⭕/Tameable🐴 → **Creatures that can be tamed or mounted**
 
 ### **📜 Quest Types**
 
@@ -158,6 +158,6 @@
     - #Mechanic⚙️/Trading💱 → **Marketplace, bartering, and economy**
     - #Mechanic⚙️/Alchemy🧪 → **Potion brewing, spellcrafting, and poisons**
     - #Mechanic⚙️/Taming🐺 → **Capturing and training beasts**
-    - #Mechanic⚙️/Fishing🎣 → **Catching aquatic creatures**
+    - #Mechanic⚙️/Fishing🎣 → **Catching aquatic creatures** 
     - #Mechanic⚙️/Cooking🍖 → **Food preparation and buffs**
     - #Mechanic⚙️/Mounts🐎 → **Riding creatures and vehicles**
